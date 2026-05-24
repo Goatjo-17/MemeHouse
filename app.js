@@ -423,7 +423,7 @@ const STUDENTS = [
     meme: null, reason: null },
   { name: "KOMUNI KAMEI",
     roll: "NDUIBC2561", course: "BCA (4 Years)", section: "Section B",
-    meme: null, reason: null },
+    meme: "./images/life-update.jpg", reason: "daily life update: Still getting worse" },
   { name: "MONISH TENSUBAM",
     roll: "NDUIBC2562", course: "BCA (4 Years)", section: "Section B",
     meme: null, reason: null },
